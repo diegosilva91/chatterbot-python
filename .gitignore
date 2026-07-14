@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+db.sqlite3
+nltk_data/
